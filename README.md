@@ -1,8 +1,11 @@
-# TMDB Movie Recommendation
-# Project Name : HR Data Analytics
+# Project Name : TMDB Movie Recommendation
   
 <p align="center">
     <img src="https://community.nasscom.in/sites/default/files/media/images/HR-Analytics.jpg" alt="Logo" width="400" height="300">
+    <img src="https://editor.analyticsvidhya.com/uploads/76889recommender-system-for-movie-recommendation.jpg" alt="Logo" width="400" height="300">
+    
+
+  
 </p>
 
 
