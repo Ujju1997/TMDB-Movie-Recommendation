@@ -1,7 +1,6 @@
 # Project Name : TMDB Movie Recommendation
   
 <p align="center">
-    <img src="https://community.nasscom.in/sites/default/files/media/images/HR-Analytics.jpg" alt="Logo" width="400" height="300">
     <img src="https://editor.analyticsvidhya.com/uploads/76889recommender-system-for-movie-recommendation.jpg" alt="Logo" width="400" height="300">
     
 
@@ -11,7 +10,7 @@
 
 ## Introduction
 
-The HR Data Analytics project aims to leverage data analysis and insights to optimize human resources management within an organization. By analyzing HR data this project seeks to enhance employee satisfaction improve recruitment strategies identify potential attrition risks and increase overall workforce productivity. The project will utilize various statistical techniques to extract valuable insights from the HR data and enable data-driven decision-making in the HR department.
+The Movie Recommendation project aims to recommend movies to users. This is a content-based recommendation system.
 
 
 ## Problem aimed to solve
@@ -25,12 +24,12 @@ The HR Data Analytics project aims to leverage data analysis and insights to opt
 
 The following methodology was used to accomplish the project objectives:
 
-1. **Data Loading:** The HR data was loaded from the CSV file into the Power BI application. 
+1. **Data Loading:** The movie data was loaded from the CSV file into the Pandas dataframe. 
 
 
-2. **Data Cleaning and Pre-processing:** The data cleaning process encompassed eliminating irrelevant data, addressing missing values, standardizing formats, removing duplicates, adding new columns and measures using DAX
+2. **Data Cleaning and Pre-processing:** The data cleaning process encompassed eliminating irrelevant data, addressing missing values, standardizing formats, removing duplicates, and applied NLP techniques like removing stopwords, punctuations, stemming to make the data useful for creating the vectorization matrix.
 
-3. **Dashboard Creation:** A dashboard was created using Power BI to provide an interactive visualization of the data. The dashboard included various charts and graphs to display the data in an easy-to-understand format. 
+3. **Streamlit App:** A web-based app was built using Streamlit and python
 
 ![Sample_User_interface](https://drive.google.com/uc?export=download&id=1VkiJqkZOu2d5LZy7Pq_lCjm8K6wbaZ2k)
 
